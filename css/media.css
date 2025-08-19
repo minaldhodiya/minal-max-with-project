@@ -3,9 +3,10 @@
      .container {
          max-width: 1320px;
      }
-     .col-lg-4{
-        width: 33.33%;
-        padding: 0 15px;
+
+     .col-lg-4 {
+         width: 33.33%;
+         padding: 0 15px;
      }
  }
 
@@ -21,22 +22,34 @@
      .container {
          max-width: 960px;
      }
-     .d-flex-none{
-        display: block;
+
+     .d-flex-none {
+         display: block;
      }
-     nav{
-        display: none;
+
+     nav {
+         display: none;
      }
-     .col-md-12{
-        width: 100%;
-        margin: 10px;
+
+     .col-md-12 {
+         width: 100%;
+         margin: 10px;
      }
-       .col-md-6{
-        width: 50%;
-        margin: 10px;
+
+     .col-md-6 {
+         width: 50%;
+         margin: 10px;
      }
-     .footer{
-        height: 650px;
+
+     .footer {
+         height: 650px;
+     }
+
+     .cup-img-1-1 {
+         width: 15%;
+         position: absolute;
+         top: 10%;
+         right: 40%;
      }
  }
 
@@ -46,6 +59,7 @@
      .container {
          max-width: 720px;
      }
+
      /* .col-sm-12{
         width: 100%;
      }
